@@ -10,3 +10,4 @@ Idée pour améliorer le projet :
  * Faire une interface web complète
  * Trouver une meilleure base de donnée
  * Un IA pour chosir les recettes à partir des commentaires ?
+ * Globalement un des projet que j'aimerai le plus développer ! Prendre la photo d'un ticket de caisse pour entrer les ingrédients, programation d'un menu dans l'app, plein plein d'idée
